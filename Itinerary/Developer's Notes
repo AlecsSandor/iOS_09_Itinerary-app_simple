@@ -1,0 +1,30 @@
+
+Hi!
+
+Itinerary is an app intended to help people with planning their trips, be them work, family or entertainment related.
+
+This is the first prototype and it doesn't have all the functionalities or options intended.
+
+As for now you can:
+    *Create a new trip card with one of the categories: Swimming, Camping, City Break and Hikking.
+    *Set start and end date for your trip.
+    *Add footnotes
+    *Select your desired location on a map
+    
+    *You can save your card trips, as well as delete them - the data is stored internally on the iPhone
+    
+Future options:
+    >Share your trip with others
+    >More categories
+    >Adding Participants, who will be able to see the trip on their own devices
+    >Adding friends
+    >..
+    
+Things that can be improved right now:
+    *There are no checks on the data entered by the users ( eg. users can enter an end date which is less than the start date )
+    *Sometimes there's a glitch with the location selection map, where it doesn't save the location of the pin ( it has somethig to do with: .onEnded & .onChange methods )
+    *Currently the app is written just for iOS 16, would be nice to cover older versions as well
+    
+PLEASE feel very free to give me feedback and comments, both on the idea and technical aspects :).
+
+Happy Hacking!
